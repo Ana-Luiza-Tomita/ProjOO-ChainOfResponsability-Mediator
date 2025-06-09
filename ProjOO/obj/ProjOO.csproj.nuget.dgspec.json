@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anato\\ProjOO-ChainOfResponsability-Mediator\\ProjOO\\ProjOO.csproj": {}
+    "c:\\Users\\anato\\ProjOO-ChainOfResponsability-Mediator\\ProjOO\\ProjOO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anato\\ProjOO-ChainOfResponsability-Mediator\\ProjOO\\ProjOO.csproj": {
+    "c:\\Users\\anato\\ProjOO-ChainOfResponsability-Mediator\\ProjOO\\ProjOO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anato\\ProjOO-ChainOfResponsability-Mediator\\ProjOO\\ProjOO.csproj",
+        "projectUniqueName": "c:\\Users\\anato\\ProjOO-ChainOfResponsability-Mediator\\ProjOO\\ProjOO.csproj",
         "projectName": "ProjOO",
-        "projectPath": "C:\\Users\\anato\\ProjOO-ChainOfResponsability-Mediator\\ProjOO\\ProjOO.csproj",
+        "projectPath": "c:\\Users\\anato\\ProjOO-ChainOfResponsability-Mediator\\ProjOO\\ProjOO.csproj",
         "packagesPath": "C:\\Users\\anato\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anato\\ProjOO-ChainOfResponsability-Mediator\\ProjOO\\obj\\",
+        "outputPath": "c:\\Users\\anato\\ProjOO-ChainOfResponsability-Mediator\\ProjOO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anato\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net9.0-windows"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net9.0-windows7.0": {
+            "targetAlias": "net9.0-windows",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
           "imports": [
             "net461",
             "net462",
@@ -57,6 +57,9 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"

@@ -1,0 +1,15 @@
+c:\Users\anato\ProjOO-ChainOfResponsability-Mediator\ProjOO\obj\Debug\net6.0-windows\ProjOO.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\anato\ProjOO-ChainOfResponsability-Mediator\ProjOO\obj\Debug\net6.0-windows\ProjOO.AssemblyInfoInputs.cache
+c:\Users\anato\ProjOO-ChainOfResponsability-Mediator\ProjOO\obj\Debug\net6.0-windows\ProjOO.AssemblyInfo.cs
+c:\Users\anato\ProjOO-ChainOfResponsability-Mediator\ProjOO\obj\Debug\net6.0-windows\ProjOO.csproj.CoreCompileInputs.cache
+c:\Users\anato\ProjOO-ChainOfResponsability-Mediator\ProjOO\obj\Debug\net6.0-windows\ProjOO.sourcelink.json
+c:\Users\anato\ProjOO-ChainOfResponsability-Mediator\ProjOO\bin\Debug\net6.0-windows\ProjOO.exe
+c:\Users\anato\ProjOO-ChainOfResponsability-Mediator\ProjOO\bin\Debug\net6.0-windows\ProjOO.deps.json
+c:\Users\anato\ProjOO-ChainOfResponsability-Mediator\ProjOO\bin\Debug\net6.0-windows\ProjOO.runtimeconfig.json
+c:\Users\anato\ProjOO-ChainOfResponsability-Mediator\ProjOO\bin\Debug\net6.0-windows\ProjOO.dll
+c:\Users\anato\ProjOO-ChainOfResponsability-Mediator\ProjOO\bin\Debug\net6.0-windows\ProjOO.pdb
+c:\Users\anato\ProjOO-ChainOfResponsability-Mediator\ProjOO\obj\Debug\net6.0-windows\ProjOO.dll
+c:\Users\anato\ProjOO-ChainOfResponsability-Mediator\ProjOO\obj\Debug\net6.0-windows\refint\ProjOO.dll
+c:\Users\anato\ProjOO-ChainOfResponsability-Mediator\ProjOO\obj\Debug\net6.0-windows\ProjOO.pdb
+c:\Users\anato\ProjOO-ChainOfResponsability-Mediator\ProjOO\obj\Debug\net6.0-windows\ProjOO.genruntimeconfig.cache
+c:\Users\anato\ProjOO-ChainOfResponsability-Mediator\ProjOO\obj\Debug\net6.0-windows\ref\ProjOO.dll

@@ -1,0 +1,5 @@
+c:\Users\anato\ProjOO-ChainOfResponsability-Mediator\ProjOO\obj\Debug\net9.0\ProjOO.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\anato\ProjOO-ChainOfResponsability-Mediator\ProjOO\obj\Debug\net9.0\ProjOO.AssemblyInfoInputs.cache
+c:\Users\anato\ProjOO-ChainOfResponsability-Mediator\ProjOO\obj\Debug\net9.0\ProjOO.AssemblyInfo.cs
+c:\Users\anato\ProjOO-ChainOfResponsability-Mediator\ProjOO\obj\Debug\net9.0\ProjOO.csproj.CoreCompileInputs.cache
+c:\Users\anato\ProjOO-ChainOfResponsability-Mediator\ProjOO\obj\Debug\net9.0\ProjOO.sourcelink.json

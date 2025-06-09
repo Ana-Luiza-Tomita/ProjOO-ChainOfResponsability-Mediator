@@ -1,15 +1,15 @@
 namespace ProjOO
 {
-    public class Janela1
+    public class Janela
     {
         private Form myform;
         private Button mybutton;
 
-        private Label mylabel;
+        public Label mylabel;
 
         private TextBox mytextBox;
 
-        public Janela1()
+        public Janela()
         {
             myform = new Form();
             mybutton = new Button();
@@ -17,7 +17,7 @@ namespace ProjOO
             mytextBox = new TextBox();
         }
 
-        public void OpenWindow()
+        public void OpenWindow(Janela janela)
         {
             mybutton.Text = "Hello";
             mybutton.Location = new Point(10, 10);
@@ -28,18 +28,19 @@ namespace ProjOO
 
             mybutton.Click += (o, s) =>
             {
-                mylabel.Text = mytextBox.Text;
+                janela.mylabel.Text = mytextBox.Text;
+                this.myform.Close();
+                janela.GetForm().ShowDialog();
             };
-            
+
             myform.Controls.Add(mybutton);
             myform.Controls.Add(mytextBox);
             myform.Controls.Add(mylabel);
-            myform.ShowDialog();
+        }
 
-            while (myform.Created)
-            {
-
-            }
+        public Form GetForm()
+        {
+            return myform;
         }
     }
 }

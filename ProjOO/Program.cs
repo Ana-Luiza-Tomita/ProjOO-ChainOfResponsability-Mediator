@@ -4,8 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Janela1 janela1 = new Janela1();
-            janela1.OpenWindow();
+            Janela janela1 = new Janela();
+            Janela janela2 = new Janela();
+            janela1.OpenWindow(janela2);
+            janela2.OpenWindow(janela1);
+
+            janela1.GetForm().ShowDialog();
         }
     }
 }
